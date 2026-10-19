@@ -103,3 +103,12 @@ Key.shiftVarmaKey.shift@<104><97><99><101>
 Key.shiftVarmaKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift@<104><97><99><101>
 [ESC]
 [KEYLOGGER STOPPED]
+Key.cmdnote
+absildugvciasbdlkvabsdjkaaaaaa
+asidugvvas
+adsougavbsd
+Key.alt_l	akjsdbKey.shift
+aosav
+sdaobsdv
+asdouvbas
+da\x03
