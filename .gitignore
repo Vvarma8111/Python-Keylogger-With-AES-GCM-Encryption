@@ -1,9 +1,18 @@
 ﻿__pycache__/
 *.py[cod]
 venv/
+.vscode/
+
+# Security & Artifacts
+secret.key
 *.enc
 *.log
+
+# Ignore raw logs but keep code reference files
 *.txt
 !requirements.txt
-secret.key
-.vscode/
+!Keycodes.txt
+
+# Submission packages and MS Office temp locks
+*.zip
+~$*
